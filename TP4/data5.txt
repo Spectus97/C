@@ -1,0 +1,4 @@
+# tailles négatives ou nulles
+N 48 49
+O 40 40
+B 10 9
